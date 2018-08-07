@@ -1,0 +1,19 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">MPSLab</string>
+    <string name="email">Email</string>
+    <string name="login_btn" />
+    <string name="login_btnn">Login</string>
+    <string name="forgot_password"> Forgot Password?</string>
+    <string name="create_new_account">New? Create an account</string>
+    <string name="button">Button</string>
+    <string name="button_login">Login</string>
+    <string name="button_map">Map</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="singup_btnn">Sing up</string>
+    <string name="user_name">User Name</string>
+    <string name="sing_up">Sing Up</string>
+    <string name="re_enter_password">Re-Enter Password</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="password">Password</string>
+    <string name="todo" />
+</resources>
